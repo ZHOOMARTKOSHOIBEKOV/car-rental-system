@@ -1,0 +1,17 @@
+CAR SALES SYSTEM IN JAVA
+
+CarSalesSystem.java is the main file to run the project!!
+
+Developed and Tested in Eclipse
+
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://code-projects.org/c/project/ *****
+
+
+THANK YOU FOR DOWNLOADING :) 
